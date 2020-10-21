@@ -9,8 +9,10 @@ package latihan9teks;
  *
  * @author Muhammad Alvin Rizqi Ramadhan
  * @author NIM 10119913
+ * Kelas : IF10K
+ * Deskripsi Program : Program Class Kambing
  */
-public class Latihan9Teks {
+public class PBO1010119913Latihan9Teks {
 
     /**
      * @param args the command line arguments
